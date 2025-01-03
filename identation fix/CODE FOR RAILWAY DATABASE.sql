@@ -23,4 +23,4 @@ CREATE TABLE reservation (
     available_seats INT
 );
 
--- drop database railwaydata;  --Commented this out as it's usually used for testing and cleanup, not part of creation
+drop database railwaydata
